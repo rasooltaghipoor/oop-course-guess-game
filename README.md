@@ -1,5 +1,5 @@
 # oop-course-guess-game
-This pr contains a simple guess game written in C#. It's a casual game in which player must guess a random generated number with a limited number of chances. 
+This repo contains a simple guess game written in C#. It's a casual game in which player must guess a random generated number with a limited number of chances. 
 
 این پروژه در گروه های حداکثر دو نفره قابل انجام است و از هر نفر به طور جداگانه تحویل گرفته می شود.
 
