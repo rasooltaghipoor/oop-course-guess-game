@@ -1,5 +1,5 @@
 # oop-course-guess-game
-This pr contains a simple guess game written in C#. It's a casual game in which player must guess a random number with a limited number of chances. 
+This pr contains a simple guess game written in C#. It's a casual game in which player must guess a random generated number with a limited number of chances. 
 
 این پروژه در گروه های حداکثر دو نفره قابل انجام است و از هر نفر به طور جداگانه تحویل گرفته می شود.
 
@@ -17,10 +17,12 @@ This pr contains a simple guess game written in C#. It's a casual game in which 
 - امکان جستجو و نمایش رکوردهای یک کاربر خاص بر اساس نام کاربری
 - امکان نمایش 5 نفر برتر
 - امکان نمایش بر اساس رده سنی. مثلا نمایش کاربران بین 5 تا 10 سال
-- سشی
+- امکان نمایش آمار هر نام کاربری:‌ نام کاربری، تعداد کل بازی های انجام شده در هر سطح، بهترین رکورد در هر سطح
 
 نکته:‌ برای ذخیره سازی داده های کاربران مختلف که از فایل خوانده می شود می توانید از آرایه یا لیست ها استفاده نمایید.
 
 نکته:‌ در صورتی که در ذخیره و لود کردن از فایل به مشکل خوردید، جهت صرفه جویی در زمان و امکان انجام سایر بخش ها با داده هایی که از طرف خودتان وارد می کنید موارد بالا راانجام دهید و پس از آن به سراغ ذخیره و خواندن اطلاعات از فایل ها بروید
+
+نکته: در صورتی که در باز کردن این پروژه با ویژوال استودیو ناموفق بودید،‌ می توانید یک پروژه جدید باز کرده و محتویات فایل های GuessGame.cs و Program.cs را در آن استفاده نمایید.
 
 
